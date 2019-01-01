@@ -1,0 +1,12 @@
+# idea
+.idea
+
+# gradle
+.gradle
+
+# output
+build
+out
+
+# MacOS
+.DS_Store
