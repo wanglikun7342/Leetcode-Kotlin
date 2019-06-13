@@ -11,3 +11,4 @@ out
 
 # MacOS
 .DS_Store
+/local.properties
