@@ -10,7 +10,6 @@ class MultiplyStrings {
         }
         for (index1 in num1.lastIndex downTo 0) {
             for (index2 in num2.lastIndex downTo 0) {
-
                 val mul = num1[index1].toString().toInt() * num2[index2].toString().toInt()
                 val s = mul / 10
                 val g = mul % 10
